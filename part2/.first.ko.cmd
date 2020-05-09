@@ -1,0 +1,1 @@
+cmd_/home/deepak/Desktop/mini_project_ldd/lab1/question1/part2/first.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/deepak/Desktop/mini_project_ldd/lab1/question1/part2/first.ko /home/deepak/Desktop/mini_project_ldd/lab1/question1/part2/first.o /home/deepak/Desktop/mini_project_ldd/lab1/question1/part2/first.mod.o ;  true

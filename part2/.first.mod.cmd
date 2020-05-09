@@ -1,0 +1,1 @@
+cmd_/home/deepak/Desktop/mini_project_ldd/lab1/question1/part2/first.mod := { echo  /home/deepak/Desktop/mini_project_ldd/lab1/question1/part2/first.o; echo; } > /home/deepak/Desktop/mini_project_ldd/lab1/question1/part2/first.mod
